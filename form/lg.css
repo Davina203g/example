@@ -1,0 +1,14 @@
+input[type="text"]{
+    background-color: rgba(113, 116, 116, 0.158);
+    width: 6cm;
+    height: 1cm;
+}
+input[type="submit"]{
+    background-color: rgb(205, 140, 248);
+    width: 6cm;
+    height: 1cm;
+
+}
+input[type="checkbox"] {
+    accent-color: rgb(205, 140, 248);
+  }
